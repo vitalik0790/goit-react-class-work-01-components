@@ -1,0 +1,10 @@
+userInfo: {
+         id: "",
+         avatar: "",
+         firstName: "",
+         lastName: "",
+         email: "",
+         contactInfo: "",
+         moreInfo: "",
+       role: "student", //tutor, mentor
+    },
